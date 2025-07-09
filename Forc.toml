@@ -1,9 +1,10 @@
 [project]
 authors = ["Nazeeh Vahora"]
+homepage = "https://github.com/naz3eh/first-sway-lib"
+repository = "https://github.com/naz3eh/first-sway-lib"
+description = "A minimal Sway library for testing purposes"
 entry = "lib.sw"
 license = "Apache-2.0"
 name = "nazeeh_first_lib"
-version = "0.1.2"
+version = "0.1.3"
  
-[dependencies]
-
